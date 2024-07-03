@@ -38,3 +38,16 @@ This Banking Application is designed to handle basic banking operations such as 
 - 🌟 **Interactive Pages:** User-friendly and interactive pages.
 - 🖨️ **Download Transactions:** Download a PDF of the last 10 transactions.
 
+## Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](images/admin_dashboard.png)
+
+### Customer Registration
+![Customer Registration](images/customer_registration.png)
+
+### Customer Dashboard
+![Customer Dashboard](images/customer_dashboard.png)
+
+### Transaction History
+![Transaction History](images/transaction_history.png)
